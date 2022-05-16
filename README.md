@@ -1,6 +1,6 @@
-# Books Selling Website :
+# :books: Books Selling Website :
 
-A frontend part of the Food Ordering Website using html , css javascript.
+Frontend part of the Books Selling Website using html , css javascript.
 
 ## Tech Stack :
 
