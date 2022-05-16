@@ -1,6 +1,6 @@
 # :books: Books Selling Website :
 
-Frontend part of the Books Selling Website using html , css javascript.
+Frontend part of the Books Selling Website using html , css and javascript.
 
 ## Tech Stack :
 
