@@ -20,6 +20,7 @@ Frontend part of the Books Selling Website using html , css and javascript.
 
 https://puneet-sys.github.io/Books_Website/
 
+
 ## Editor Used :
 
-Microsoft Visual Studio
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> Microsoft Visual Studio Code </a> 
