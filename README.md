@@ -16,7 +16,7 @@ Frontend part of the Books Selling Website using html , css and javascript.
 
 ![image](https://user-images.githubusercontent.com/86190033/168530497-0dd309ae-e57e-4c15-a892-9a8c7d26bcd1.png)
 
-## Demo :
+## Demo :arrow_right: :
 
 https://puneet-sys.github.io/Books_Website/
 
